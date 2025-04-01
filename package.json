@@ -1,0 +1,12 @@
+{
+  "name": "practice_package_json",
+  "version": "1.0.0",
+  "description": "Practice how to use package.json file",
+  "license": "ISC",
+  "author": "Chiemezie Uchenwoke",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
