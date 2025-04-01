@@ -1,6 +1,6 @@
 {
   "name": "practice_package_json",
-  "version": "1.0.0",
+  "version": "~1.0.0",
   "description": "Practice how to use package.json file",
   "license": "ISC",
   "author": "Chiemezie Uchenwoke",
